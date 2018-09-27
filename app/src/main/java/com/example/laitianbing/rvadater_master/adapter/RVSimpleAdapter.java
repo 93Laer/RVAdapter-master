@@ -10,6 +10,9 @@ import java.util.List;
 
 /**
  * 描述: RecyclerView 通用适配器.
+ * 赖天兵
+ * 简书：https://www.jianshu.com/u/2229fd214880
+ * github:https://github.com/93Laer/RVAdapter-master
  *
  * @param <T>
  */

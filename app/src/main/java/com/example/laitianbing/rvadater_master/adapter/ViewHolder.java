@@ -19,6 +19,9 @@ import android.widget.TextView;
 
 /**
  * RecyclerView.ViewHolder.
+ * 赖天兵
+ * 简书：https://www.jianshu.com/u/2229fd214880
+ * github:https://github.com/93Laer/RVAdapter-master
  */
 public class ViewHolder extends RecyclerView.ViewHolder {
 

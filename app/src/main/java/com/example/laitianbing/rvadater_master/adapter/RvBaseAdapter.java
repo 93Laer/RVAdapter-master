@@ -15,6 +15,9 @@ import java.util.List;
 
 /**
  * 描述:RecyclerView 多样式adapter封装.
+ * 赖天兵
+ * 简书：https://www.jianshu.com/u/2229fd214880
+ * github:https://github.com/93Laer/RVAdapter-master
  */
 
 public abstract class RvBaseAdapter<T> extends RecyclerView.Adapter<ViewHolder> {
